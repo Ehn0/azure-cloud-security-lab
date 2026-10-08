@@ -1,4 +1,4 @@
-   # Azure Cloud Lab
+   # Azure Cloud Security Lab
    Building a secure hub-and-spoke Azure environment step by step.
 
    ## Progress
